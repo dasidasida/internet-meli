@@ -12,6 +12,7 @@
 - [slayed-coom-dva-all-versions](./slayed-coom-dva-all-versions)
 - [slayed-coom-tifa-all-versions](./slayed-coom-tifa-all-versions)
 - [slayed-coom-widowmaker-all-versions](./slayed-coom-widowmaker-all-versions)
+- [view_video](./view_video)
 
 ---
 
